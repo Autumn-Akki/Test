@@ -5,7 +5,7 @@
 
 int main()
 {
-    printf("gay");
-    printf("EZ");
+    printf("hey\n");
+    printf("this is too hard");
     return 0;
 }
